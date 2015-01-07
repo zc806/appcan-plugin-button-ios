@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plugin3.0_ios/!svn/ver/1230/trunk/code/public/EUExButton/uexButton
+END
+uexButton.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plugin3.0_ios/!svn/ver/1068/trunk/code/public/EUExButton/uexButton/uexButton.dylib
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plugin3.0_ios/!svn/ver/1068/trunk/code/public/EUExButton/uexButton/.DS_Store
+END
+libuexButton.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plugin3.0_ios/!svn/ver/1068/trunk/code/public/EUExButton/uexButton/libuexButton.a
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plugin3.0_ios/!svn/ver/1230/trunk/code/public/EUExButton/uexButton/info.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plugin3.0_ios/!svn/ver/1068/trunk/code/public/EUExButton/uexButton/plugin.xml
+END
